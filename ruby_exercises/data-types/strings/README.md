@@ -24,7 +24,7 @@ There are additional methods that you will need to complete the exercises; each 
 * `String#sub`[docs](https://ruby-doc.org/core-2.6.5/String.html#method-i-sub)
 * `String#strip`[docs](https://ruby-doc.org/core-2.6.5/String.html#method-i-strip)
 * `String#upcase`[docs](https://ruby-doc.org/core-2.6.5/String.html#method-i-upcase)
-
+Done!
 
 
 ```
