@@ -2,14 +2,9 @@ require 'pry'
 #### GLOBAL SCOPE
 ## Example 1
 
-# x = 10
-# puts x
-# puts y
-
 ## Example 2
 
 # x = 10
-# puts x
 # puts y
 # y = 20
 
@@ -17,19 +12,16 @@ require 'pry'
 
 # x = 10
 # def say_hello
-#   puts 'Hello World!'
+#  puts 'Hello World!'
 # end
 # puts x
 
 ## Example 4
 
-# def print_variable
-#   x = 4
-#   puts x
+# ef print_variable
+#  x = 4
+#  puts x
 # end
-
-# x = 2
-# print_variable
 
 ## Example 5
 
